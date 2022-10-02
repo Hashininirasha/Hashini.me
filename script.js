@@ -48,6 +48,13 @@ $(document).ready(function(){
         loop: true
     });
 
+    var typed = new Typed(".typing-3", {
+        strings: ["IEEE Young Professionals Sri Lanka", "FOSS Sri Lanka", "IEEE Uva Wellassa University Student Branch", "FOSS Community UWU", "Women In FOSS Sri Lanka"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
+
     // owl carousel script
     $('.carousel').owlCarousel({
         margin: 20,
