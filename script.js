@@ -35,21 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["IEEEian", "Developer", "Technical Writer", "FOSS Enthusiast", "Student"],
+        strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["IEEEian", "Developer", "Technical Writer", "FOSS Enthusiast", "Student"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
-
-    var typed = new Typed(".typing-3", {
-        strings: ["IEEE Young Professionals Sri Lanka", "FOSS Sri Lanka", "IEEE Uva Wellassa University Student Branch", "FOSS Community UWU", "Women In FOSS Sri Lanka"],
+        strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
